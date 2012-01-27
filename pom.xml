@@ -13,13 +13,13 @@
         <maven>2.2.1</maven>
     </prerequisites>
 
-    <!--<licenses>
+    <<licenses>
         <license>
             <name></name>
             <url></url>
         </license>
     </licenses>
-
+<!--
     <scm>
         <connection></connection>
         <developerConnection></developerConnection>
