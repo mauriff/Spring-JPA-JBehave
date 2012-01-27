@@ -976,7 +976,7 @@
         <jdbc.driverClassName>org.apache.derby.jdbc.ClientDriver</jdbc.driverClassName>
         <jdbc.url>jdbc:derby://localhost/${db.name};create=true</jdbc.url>
         <jdbc.username>any</jdbc.username>
-        <jdbc.password>any</jdbc.password>
+        <jdbc.password></jdbc.password>
 
         <!-- Properties calculated by AppFuse when running full-source plugin -->
         <aspectj.version>1.6.10</aspectj.version>
